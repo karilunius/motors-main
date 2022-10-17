@@ -54,3 +54,21 @@ BORRAR CLIENTE
 
 ![CapturaFrontendEliminarCliente1](https://user-images.githubusercontent.com/93058053/196226700-b88dc84e-c526-4c05-980e-234f7cbe6dfb.JPG)
 
+
+
+
+
+
+***********************************************************************************************************************************
+
+MOCKUP DE PROYECTO : https://isabellagallego.github.io/everest_motors/
+
+carpeta de código: https://github.com/IsabellaGallego/everest_motors.git
+
+DJANGO CRUD PARA TABLA CLIENTES :  https://github.com/karilunius/motors.git
+
+
+***********************************************************************************************************************************
+
+
+
