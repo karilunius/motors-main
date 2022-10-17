@@ -2,6 +2,17 @@
 
 TRABAJO DESARROLLADO PARA MINTIC 2022
 Ciclo 3 Equipo 3 
+***************************************************************************************************
+
+INTEGRANTES
+Miguel Nehemías Martínez Alfaro
+Karol Johana Zambrano Cruz
+Alexander Nevado García
+Isabella Gallego Loaiza
+Carolina Cabrera Montoya
+
+***************************************************************************************************
+
 
 1. Descargar repositorio en escritorio.
 
