@@ -22,8 +22,8 @@ a. ir dentro de la carpeta y activar env:
 
 *ENVIRONMENT* = carpeta motors 
 activar así: 
-
-.\motors\Scripts\activate   
+escribe en la carpeta motors
+motors\Scripts\activate   
 
 b. luego se ingresa a proyecto smotors
 
